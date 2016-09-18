@@ -10,7 +10,7 @@ https://github.com/AitorSantaeugenia/validation_form/blob/master/README.md
 We used this code created previously: <br>
 https://github.com/AitorSantaeugenia/validation_form/blob/master/README.md
 
-Ejemplo del uso localstorage - Example of the use of localstorage property:<br>
+<b>Ejemplo del uso localstorage - Example of the use of localstorage property:</b><br>
 save_data_from_form_localstorage.js
 
 
