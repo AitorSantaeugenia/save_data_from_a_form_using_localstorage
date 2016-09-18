@@ -19,8 +19,8 @@ validations_formulari_v2_with_localstorage.js
 ![Alt text](https://cloud.githubusercontent.com/assets/14861253/18612495/4c920ed4-7d5b-11e6-98a7-563a259ae977.png)
 ![Alt text](https://cloud.githubusercontent.com/assets/14861253/18612494/4c90e964-7d5b-11e6-8c9a-88c9fe9fb9b3.png)
 
-What's next?, a login!<br>
 Lo proximo?, logearse!<br>
+What's next?, a login!<br>
 
 Eso lo hacemos con la funcion <b>"function checkUser()" en la línia 47 del documento</b> "save_data_from_form_localstorage.js", en un formulario básico (nick + password), mirará si el usuario existe en el localstorage. <br>
 That's what the function <b>"function checkUser()" does in the 47th line of the "save_data_from_form_localstorage.js" document</b>. It will check if the user exists in the localstorage.
