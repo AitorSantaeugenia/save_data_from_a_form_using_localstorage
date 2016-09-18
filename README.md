@@ -22,5 +22,5 @@ validations_formulari_v2_with_localstorage.js
 Lo proximo?, logearse!<br>
 What's next?, a login!<br>
 
-Eso lo hacemos con la funcion <b>"function checkUser()" en la línia 47 del documento</b> "save_data_from_form_localstorage.js", en un formulario básico (nick + password), mirará si el usuario existe en el localstorage. <br>
-That's what the function <b>"function checkUser()" does in the 47th line of the "save_data_from_form_localstorage.js" document</b>. It will check if the user exists in the localstorage.
+Eso lo hacemos con la funcion <b>"function checkUser()" en la línia 47 del documento</b> "save_data_from_form_localstorage.js", en un formulario básico (nick + password), mirará si el usuario y la contraseña existen en el localstorage. <br>
+That's what the function <b>"function checkUser()" does in the 47th line of the "save_data_from_form_localstorage.js" document</b>. It will check if the user+password exists in the localstorage.
