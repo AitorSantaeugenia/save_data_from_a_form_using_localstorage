@@ -10,7 +10,7 @@ https://github.com/AitorSantaeugenia/validation_form/blob/master/README.md
 We used this code created previously: <br>
 https://github.com/AitorSantaeugenia/validation_form/blob/master/README.md
 
-<b>Ejemplo del uso localstorage - Example of the use of localstorage property:</b><br>
+<b>Ejemplo del uso localstorage y validación del login (usuario+password) - Example of the use of localstorage property and login (checks if user+password are in the localstorage):</b><br>
 save_data_from_form_localstorage.js
 
 <b>Validacion de formulario, guarda datos en localstorage y login - Form validation, saving data with localstorage property and login:</b><br>
