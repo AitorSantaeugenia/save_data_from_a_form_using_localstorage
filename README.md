@@ -13,8 +13,10 @@ https://github.com/AitorSantaeugenia/validation_form/blob/master/README.md
 <b>Ejemplo del uso localstorage - Example of the use of localstorage property:</b><br>
 save_data_from_form_localstorage.js
 
-
+<b>Validacion de formulario, guarda datos en localstorage y login - Form validation, saving data with localstorage property and login:</b><br>
 validations_formulari_v2_with_localstorage.js
+
+- The login, checks if user+password exists in the localstorage (can't be duplicated values, it's validated in the validation form, previously).
 
 
 ![Alt text](https://cloud.githubusercontent.com/assets/14861253/18612495/4c920ed4-7d5b-11e6-98a7-563a259ae977.png)
